@@ -236,7 +236,7 @@
 				
 				<div class="col-md-4 col-md-offset-4">
 					<div class="copyright">
-						&copy; Mayo 2018 <a target="_blank" href="http://www.demente.com.ve/" title="DeMente">DeMente C.A</a>.
+						CriptoMex &copy;2018 por <a target="_blank" href="http://www.demente.com.ve/" title="DeMente">DeMente C.A</a>.
 					</div>
                     
 				</div>						
